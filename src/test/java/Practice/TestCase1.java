@@ -10,6 +10,7 @@ public class TestCase1 {
 public void tc1() {
 	
 	System.out.println("Cmd practise");
+	System.out.println("git bash");
 }
 
 }
